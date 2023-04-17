@@ -1,0 +1,24 @@
+{
+  "name": "dependencies",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "5.3.0-alpha3",
+    "postcss": "8.4.21",
+    "bootstrap-icons": "1.10.4",
+    "eslint": "8.37.0",
+    "prettier": "3.0.0-alpha.4",
+    "tailwindcss": "3.3.1",
+    "echarts": "5.4.2",
+    "sass": "1.60.0",
+    "mysql2": "3.2.0",
+    "jquery": "3.6.4",
+    "nanoid": "4.0.2",
+    "node-fetch": "4.0.0-beta.4"
+  },
+  "files": [
+    "../Content/*"
+  ],
+  "devDependencies": {
+
+  }
+}

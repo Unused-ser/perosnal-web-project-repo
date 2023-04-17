@@ -1,0 +1,23 @@
+button[name="date"] {
+    height: fit-content;
+    width: fit-content;
+    margin: 5px;
+    border-radius: 9px;
+    background: white;
+    border: 0;
+    padding: 6px;
+    font-feature-settings: normal;
+}
+
+button[name="date"]:hover {
+    background: #e3d9d9;
+    box-shadow: 0 0 2px cornflowerblue, 0 0 2px cornflowerblue;
+    cursor: help;
+}
+
+
+.styleditems{
+    z-index: 200;
+}
+
+
